@@ -1,0 +1,41 @@
+1-Browser : Chrome
+URL : http://demo.guru99.com/test/newtours/
+Enter Username and Password--> Click on submit
+
+
+
+2-Concepts for Selenium covered today:
+
+Difference between FindElement and FindElements
+Locators (id, xpath, classname, linktext)
+sendkeys, submit, click
+checkbox and radio
+Site to try practically for the above concepts
+
+http://demo.guru99.com/test/radio.html
+http://demo.guru99.com/test/facebook.html 
+
+
+3-Link Text, Partial Link Text
+
+4-http://automationpractice.com/index.php ----for e-commerce
+
+5-window handling, table handling, dynamic table handling
+
+6-Test Case 1 - Automate first Menu link of amazon.in and print page title
+Test Case 2 - Automate all the Menu links of techlistic.com
+
+7-wait types and desired capabilities
+  
+8-Finding broken links in a page and on finding all links in a page using selenium and java
+Upload of a file using selenium and java
+
+9-Handling frames
+ Scrolling of a page
+Capturing screenshots
+ 
+10-File dwnld, TestNG
+
+11-include and exclude
+ attributes
+parametization
